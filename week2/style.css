@@ -54,21 +54,30 @@
 		}
 		.box {
 			width:100px;
-			float:left;
-			padding:10px;
+			float:right;
+			padding:0px;
 			color:#fff;
+<<<<<<< HEAD
 			height:70px;
 			margin:10px;
+=======
+			height:50px;
+			margin:20px;
+			background:#fff;
+>>>>>>> 8865913693746c227d84e5de89407297f0367e59
 			border:3px solid #4889a3;
 		}
 		.box1 {
 			background:#1E3F6E;
 		}
+		.box1 {
+			background:#000;
+		}
 		.box2 {
 			background:#1E5B6E;
 		}
 		.blue {
-		  color:#ffffff;
+		  	color:#ffffff;
 		}
 		.blue {
 		 	color:#003399;
